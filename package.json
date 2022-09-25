@@ -1,8 +1,9 @@
 {
   "name": "star-wars",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "version": "0.0.0",
+  "author": "Aderemi Dare",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
